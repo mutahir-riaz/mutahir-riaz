@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me<br>👋 Hi, I'm Mutahir, an 18-year-old developer passionate about languages—both human and computer.<br>🌍 Based in Pakistan, I speak six languages, including Chinese, Turkish.<br>💻 I'm a MERN stack developer with over a year of experience building dynamic web applications.<br>🚀 I’m currently diving deep into data science and sharpening my skills in MERN stack.<br>🛠️ Whether it's learning new languages or writing code, I love learning things from scratch.<br>🎵 When I’m not coding, you’ll find me listening to music, playing piano or writing poetry.<br>🎯 Always striving to learn something new, whether it’s about programming, business English, or the latest in global politics.
+Me<br>👋 Hi, I'm Mutahir, an 18-year-old developer passionate about languages—both human and computer.<br>🌍 Based in Pakistan, I speak six languages, including Chinese, Turkish.<br>💻 I'm a MERN stack developer with over a year of experience building dynamic web applications.<br>🚀 I’m currently diving deep into data science and sharpening my skills in MERN stack.<br>🛠️ Whether it's learning new languages or writing code, I love learning things from scratch.<br>🎵 When I’m not coding, you’ll find me listening to music, playing piano or writing poetry.<br>🎯 Always striving to learn something new.
 
 
 ## 🌐 Socials:
